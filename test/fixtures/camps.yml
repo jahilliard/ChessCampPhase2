@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  curriculum_id: 
+  cost: 
+  start_date: 
+  end_date: 
+  time_slot: 
+  max_students: 
+  active: false
+
+two:
+  curriculum_id: 
+  cost: 
+  start_date: 
+  end_date: 
+  time_slot: 
+  max_students: 
+  active: false
